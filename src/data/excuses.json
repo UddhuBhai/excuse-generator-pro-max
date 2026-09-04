@@ -1,0 +1,191 @@
+{
+  "Didn't go to the gym": {
+    "low": [
+      "I needed to give my body a recovery day.",
+      "I wasn't feeling 100% today, so I decided not to risk a bad workout."
+    ],
+    "medium": [
+      "My schedule got completely messed up today and I couldn't make it to the gym.",
+      "I had something unexpected come up and by the time it was over, the gym was basically out of the question."
+    ],
+    "high": [
+      "I was mentally preparing for the gym, which is technically part of the fitness process.",
+      "I had an extremely demanding day and decided my body had already suffered enough."
+    ],
+    "nuclear": [
+      "I was going to go, but my body's internal recovery algorithm determined that today was statistically more suitable for rest.",
+      "There was an unforeseen disruption in my physical performance ecosystem. I am currently investigating."
+    ]
+  },
+
+  "Didn't study": {
+    "low": [
+      "I was planning to study later and completely lost track of time.",
+      "I thought I'd take a short break before studying."
+    ],
+    "medium": [
+      "I had a lot going on today and couldn't properly focus on studying.",
+      "I tried studying, but I wasn't retaining anything, so I decided to come back to it later."
+    ],
+    "high": [
+      "I spent most of the day mentally preparing to study. Unfortunately, the preparation phase took longer than expected.",
+      "I was waiting for the perfect mental state to study effectively."
+    ],
+    "nuclear": [
+      "I conducted an unplanned experiment on the effects of academic procrastination.",
+      "I underestimated the temporal distance between 'I'll study later' and 'Oh shit, it's tomorrow.'"
+    ]
+  },
+
+  "Didn't submit an assignment": {
+    "low": [
+      "I completely lost track of the submission deadline.",
+      "I thought I had already submitted it."
+    ],
+    "medium": [
+      "I had an issue with the final version and didn't want to submit something incomplete.",
+      "I was making some last-minute improvements and ran out of time."
+    ],
+    "high": [
+      "The assignment was finished, but I encountered an unexpected issue while preparing the final submission.",
+      "I prioritized getting the work right over getting it submitted quickly."
+    ],
+    "nuclear": [
+      "The assignment entered what I believe can only be described as a temporary administrative quantum state between completion and submission.",
+      "I have successfully completed the assignment but failed to complete the concept of submitting the assignment."
+    ]
+  },
+
+  "Was late": {
+    "low": [
+      "I underestimated how long it would take me to get there.",
+      "I got delayed on the way."
+    ],
+    "medium": [
+      "There was an unexpected delay that completely threw off my timing.",
+      "I left on time, but everything somehow took longer than expected."
+    ],
+    "high": [
+      "My original timeline became incompatible with the laws of reality.",
+      "I experienced a series of extremely unfortunate events that mathematically resulted in me being late."
+    ],
+    "nuclear": [
+      "I wasn't late. I simply arrived during a different phase of the scheduled time window.",
+      "There was a temporary synchronization failure between myself and the concept of time."
+    ]
+  },
+
+  "Didn't reply to a message": {
+    "low": [
+      "I saw the message and completely forgot to reply.",
+      "I meant to reply earlier but got distracted."
+    ],
+    "medium": [
+      "I wanted to give you a proper response instead of sending something rushed.",
+      "I read it at a terrible time and then completely forgot about it."
+    ],
+    "high": [
+      "I mentally replied to you and apparently forgot to perform the physical act of sending it.",
+      "I had a response prepared in my head. Unfortunately, it never made it to the chat."
+    ],
+    "nuclear": [
+      "I entered a prolonged period of digital contemplation regarding the appropriate response.",
+      "The message was acknowledged internally but failed to transition into the external communication layer."
+    ]
+  },
+
+  "Didn't finish a project": {
+    "low": [
+      "I underestimated how long the final part would take.",
+      "I'm almost done. I just need to finish a few things."
+    ],
+    "medium": [
+      "I ran into a few unexpected problems that took longer to solve than I expected.",
+      "The scope ended up being bigger than I originally planned."
+    ],
+    "high": [
+      "The project evolved beyond its original specifications and required additional development time.",
+      "I spent more time solving problems than actually progressing through the planned milestones."
+    ],
+    "nuclear": [
+      "The project has entered an advanced developmental phase in which completion is currently being redefined.",
+      "Technically, the project isn't unfinished. It is simply operating under an extremely ambitious definition of 'done.'"
+    ]
+  },
+
+  "Missed a meeting": {
+    "low": [
+      "I completely missed the reminder.",
+      "I lost track of the time."
+    ],
+    "medium": [
+      "Something came up unexpectedly and I wasn't able to make it.",
+      "I had a scheduling conflict that I didn't catch in time."
+    ],
+    "high": [
+      "There was a synchronization issue between my calendar and my actual existence.",
+      "I had an unexpected situation that completely disrupted my schedule."
+    ],
+    "nuclear": [
+      "My calendar and I experienced a fundamental disagreement regarding the temporal location of the meeting.",
+      "I was technically present in spirit, but unfortunately my physical presence encountered some deployment issues."
+    ]
+  },
+
+  "Forgot something important": {
+    "low": [
+      "It completely slipped my mind.",
+      "I genuinely thought I had already taken care of it."
+    ],
+    "medium": [
+      "I had too many things going on and it unfortunately got buried.",
+      "I remembered it at exactly the wrong time."
+    ],
+    "high": [
+      "My brain temporarily deprioritized the information despite its obvious importance.",
+      "The information was stored somewhere in my brain. Unfortunately, the retrieval system failed."
+    ],
+    "nuclear": [
+      "The memory existed. The access credentials did not.",
+      "My internal information management system experienced an unexpected outage."
+    ]
+  },
+
+  "Didn't do the work I promised": {
+    "low": [
+      "I ran out of time.",
+      "I underestimated how much time it would take."
+    ],
+    "medium": [
+      "I had some unexpected things come up that threw off my plans.",
+      "I started working on it but couldn't finish everything I wanted to."
+    ],
+    "high": [
+      "I overestimated my available bandwidth and underestimated the complexity of the task.",
+      "My intentions were excellent. My execution unfortunately did not receive the same memo."
+    ],
+    "nuclear": [
+      "The commitment was made under a fundamentally different set of temporal assumptions.",
+      "I have discovered that promising to do something and actually doing it are two completely different technological challenges."
+    ]
+  },
+
+  "Other": {
+    "low": [
+      "Something came up.",
+      "I completely lost track of time."
+    ],
+    "medium": [
+      "I had an unexpected situation that threw everything off.",
+      "Things got a little more complicated than I expected."
+    ],
+    "high": [
+      "There were several unforeseen circumstances that made the original plan impossible.",
+      "The situation escalated in ways that were completely outside my control."
+    ],
+    "nuclear": [
+      "The circumstances surrounding the situation are currently under investigation.",
+      "I would explain what happened, but the explanation itself would raise more questions than it answers."
+    ]
+  }
+}
